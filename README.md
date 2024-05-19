@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Ronei Martins
-- 👀 I’m interested in React, React Native, Godot and learning a new backend language
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Godot
+- 👀 I’m interested in React, React Native and Godot
 - 📫 You can talk to me on my email: roneimartins1@gmail.com
